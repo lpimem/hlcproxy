@@ -1,0 +1,28 @@
+{
+  "name": "hlcproxy",
+  "version": "1.0.0",
+  "description": "proxy page for hlc gs script ",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpimem/hlcproxy.git"
+  },
+  "author": "lpimem <lowatt.pi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lpimem/hlcproxy/issues"
+  },
+  "homepage": "https://github.com/lpimem/hlcproxy#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.2",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "logez": "^1.0.0"
+  }
+}
